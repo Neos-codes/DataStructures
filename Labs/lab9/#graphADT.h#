@@ -1,0 +1,12 @@
+#ifndef GRAPHADT_H
+#define GRAPHADT_H
+#include <iostream>
+#include <vector>
+
+using namespace std;
+
+class graph{
+ public:
+  
+
+}
